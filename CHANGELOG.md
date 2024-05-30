@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/zaap59/sandbox-release-2/compare/v1.0.0...v1.0.1) (2024-05-30)
+
+
+### Bug Fixes
+
+* **app:** change h1 to h2 ([#4](https://github.com/zaap59/sandbox-release-2/issues/4)) ([#6](https://github.com/zaap59/sandbox-release-2/issues/6)) ([f12b4dc](https://github.com/zaap59/sandbox-release-2/commit/f12b4dcdd9168e926c68302115fbc50a07c6f81e))
+
 ## 1.0.0 (2024-05-30)
 
 
