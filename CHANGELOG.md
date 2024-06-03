@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/zaap59/sandbox-release-2/compare/v1.1.1...v1.1.2) (2024-06-03)
+
+
+### Bug Fixes
+
+* **app:** remove unused css file ([#23](https://github.com/zaap59/sandbox-release-2/issues/23)) ([#24](https://github.com/zaap59/sandbox-release-2/issues/24)) ([8825546](https://github.com/zaap59/sandbox-release-2/commit/88255468d0491b189c7e53dce1c26f09308f595d))
+
 ## [1.1.1](https://github.com/zaap59/sandbox-release-2/compare/v1.1.0...v1.1.1) (2024-06-03)
 
 
