@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/zaap59/sandbox-release-2/compare/v1.1.0...v1.1.1) (2024-06-03)
+
+
+### Bug Fixes
+
+* **app:** change metadata description ([#19](https://github.com/zaap59/sandbox-release-2/issues/19)) ([#21](https://github.com/zaap59/sandbox-release-2/issues/21)) ([fe2e7b0](https://github.com/zaap59/sandbox-release-2/commit/fe2e7b0177643d37c4bdfacc7804ff3b9dd033df))
+
 ## [1.1.0](https://github.com/zaap59/sandbox-release-2/compare/v1.0.0...v1.1.0) (2024-06-03)
 
 
