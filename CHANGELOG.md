@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.2.0](https://github.com/zaap59/sandbox-release-2/compare/v1.1.0...v1.2.0) (2024-07-08)
+
+
+### Features
+
+* **app:** add main section ([#26](https://github.com/zaap59/sandbox-release-2/issues/26)) ([b01e4d9](https://github.com/zaap59/sandbox-release-2/commit/b01e4d98f6ffec4696b86e0559955fb7e16cce64))
+
+
+### Bug Fixes
+
+* **app:** change metadata description ([6107263](https://github.com/zaap59/sandbox-release-2/commit/610726332572891d3faf09309b753b19774c4dc7))
+* **app:** change metadata description ([#19](https://github.com/zaap59/sandbox-release-2/issues/19)) ([e7c651b](https://github.com/zaap59/sandbox-release-2/commit/e7c651bbae1f6ce0480a36f1968b68d1d2c2c77e))
+* **app:** remove unused css file ([#23](https://github.com/zaap59/sandbox-release-2/issues/23)) ([63f1e83](https://github.com/zaap59/sandbox-release-2/commit/63f1e839cc829188fc00f64b5ca01695d83e4941))
+
 ## [1.1.0](https://github.com/zaap59/sandbox-release-2/compare/v1.0.0...v1.1.0) (2024-06-03)
 
 
